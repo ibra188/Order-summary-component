@@ -1,3 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 11px;
+    font-family: "Lexend Deca big soulder", sans-serif;
+}
 
 
 
